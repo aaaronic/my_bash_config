@@ -2,6 +2,7 @@ export PATH="/usr/local/bin:$PATH:$HOME/.rvm/bin"
 
 export HISTFILESIZE=50000
 export SHELL_SESSION_HISTORY=0
+export PYTHONIOENCODING=utf8
 
 # Git branch in prompt.
 source ~/my_bash_config/.git-prompt.sh
