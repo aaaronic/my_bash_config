@@ -23,6 +23,8 @@ alias grep="grep --color=auto"
 
 alias be="bundle exec"
 
+alias timestamp="date +%Y-%m-%dT%T%z" # ISO 8601
+
 # alias mysqld_load="launchctl load -w /usr/local/Cellar/mysql/5.6.26/homebrew.mxcl.mysql.plist"
 # alias mysqld_unload="launchctl unload -w /usr/local/Cellar/mysql/5.6.26/homebrew.mxcl.mysql.plist"
 
